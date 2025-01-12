@@ -29,8 +29,6 @@ In this chapter, you will get an introduction to C#, its history, and its role i
 - [Advantages of Using C#](https://www.geeksforgeeks.org/c-sharp-programming-language-introduction/)
 - [History and Evolution of C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
-### Downloads
-[Download Chapter 1: Introduction to C#](#)
 
 ### Exercise:
 Write a simple C# program that outputs `"Hello, World!"`. [Learn More](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)  
@@ -47,8 +45,6 @@ Before writing your first C# program, it’s essential to set up the development
 - [Setting Up Visual Studio and Visual Studio Code](https://learn.microsoft.com/en-us/visualstudio/)
 - [Configuring Your Development Environment](https://learn.microsoft.com/en-us/dotnet/core/tools/)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Environment Setup Instructions
 - **Windows:** Follow [these steps](https://learn.microsoft.com/en-us/dotnet/core/install/windows).
@@ -71,8 +67,6 @@ This chapter covers the fundamental concepts of C#, including data types, variab
 - [Control Statements (if, switch, loops)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/if-else-and-switch-statements)
 - [Basic Input and Output](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-linq-query-operations/)
 
-### Downloads
-[Download Chapter 3: C# Basics](#)
 
 ### Exercise:
 Write a program that calculates the sum of numbers from 1 to N using a loop. [Example](https://www.geeksforgeeks.org/csharp-program-sum-n-natural-numbers/)
@@ -90,9 +84,6 @@ Dive deep into object-oriented programming concepts, the cornerstone of C#.
 - [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-c-sharp/)
 - [Encapsulation and Abstraction](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/)
 
-### Downloads
-[Download Chapter 4: Object-Oriented Programming](#)
-
 ### Exercise:
 Design a class hierarchy for Animals (Dog, Cat, Bird). Include methods for common actions (e.g., Eat, Sleep). 
 
@@ -109,8 +100,6 @@ Learn about key data structures and algorithms implemented in C# to write effici
 - [Dictionaries](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=net-8.0)
 - [Sorting and Searching Algorithms](https://www.geeksforgeeks.org/sorting-algorithms-in-c/)
 
-### Downloads
-[Download Chapter 5: Data Structures and Algorithms](#)
 
 ### Exercise:
 Implement a simple stack with push and pop operations.
@@ -127,8 +116,6 @@ Learn how to handle runtime errors in your programs efficiently.
 - [Using Try, Catch, and Finally Blocks](https://www.tutorialspoint.com/csharp/csharp_exception_handling.htm)
 - [Custom Exceptions](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/creating-and-throwing-exceptions)
 
-### Downloads
-[Download Chapter 6: Exception Handling](#)
 
 ### Exercise:
 Write a program to handle division by zero and provide a user-friendly error message.
@@ -145,8 +132,6 @@ Handle files and data streams in C# to manage external files effectively.
 - [Working with Streams](https://learn.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-8.0)
 - [Serialization](https://learn.microsoft.com/en-us/dotnet/standard/serialization/)
 
-### Downloads
-[Download Chapter 7: File Input/Output Operations](#)
 
 ### Exercise:
 Create a program that reads from one file and writes the contents to another file.
@@ -163,8 +148,6 @@ Learn how to build responsive and scalable applications using C# asynchronous pr
 - [Task Parallel Library (TPL)](https://www.geeksforgeeks.org/task-parallel-library-in-c-sharp/)
 - [Managing Threads in C#](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/threading/)
 
-### Downloads
-[Download Chapter 8: Asynchronous Programming](#)
 
 ### Exercise:
 Implement an asynchronous program to fetch data from an external API.
@@ -180,8 +163,6 @@ Create modern graphical interfaces with tools like Windows Forms and WPF.
 - [Building a GUI Application](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
 - [Handling Events](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/user-interface/how-to-add-event-handlers?view=netdesktop-8.0)
 
-### Downloads
-[Download Chapter 9: GUI Development](#)
 
 ### Exercise:
 Create a simple calculator with a graphical interface.
@@ -198,8 +179,6 @@ Explore powerful C# libraries and frameworks to accelerate development.
 - [Web Development with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
 - [Dependency Injection in C#](https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection)
 
-### Downloads
-[Download Chapter 10: Libraries and Frameworks](#)
 
 ### Exercise:
 Create a simple ASP.NET Core web API and test it with Postman.
@@ -217,3 +196,16 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding! 🚀
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
